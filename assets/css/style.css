@@ -63,7 +63,7 @@ animation-fill-mode: forwards;
 
 #hero-outer {height: 600px;
     width:100%;
-    overflow:hidden;
+    overflow: hidden;
     position: relative;
 }
 
